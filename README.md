@@ -1,2 +1,2 @@
 # VladimirBot
-My bot
+Hi, this my first bot
